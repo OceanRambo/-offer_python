@@ -1,4 +1,4 @@
-# -offer_python
+# 剑指-offer_python
 python实现剑指offer习题
 
 不一定完全按照书籍上的思路解答；
